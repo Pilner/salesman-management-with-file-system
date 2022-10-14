@@ -2,7 +2,7 @@
 
 The final project of COMP 20033 Computer Programming 2 written in the C Language.
 
----
+
 
 ## How to use
 *Make sure you have a C compiler like [GCC](https://gcc.gnu.org/)*
@@ -20,7 +20,7 @@ gcc main.c -o main.exe
 ./main.exe
 ```
 
----
+
 
 ## Salesman Management System
 Each of the salesman has these types of data assigned to each of them:
@@ -29,7 +29,7 @@ Each of the salesman has these types of data assigned to each of them:
 - Total Sales
 - Commission
 
----
+
 
 ## How it Works
 This program is intended to be used as a management system to manipulate the data of employees of a sales company.
@@ -40,17 +40,17 @@ It has four functions:
 3. **Delete** - Delete data
 4. **View** - View the list of data in the database
 
----
+
 
 ## File Handling System
 This program also makes use of the File Handling System from the standard library `stdio.h`. An external file, the `database.txt` file is used to act as the database of this program.
 
----
+
 
 ## Error Catching System
 We brainstormed for all of the possible errors and bugs that is created by mostly human error which we strive to accomplish **Garbage Input - Perfect Output (GIPO)**. This means that invalid inputs will be rejected *but* will not break the program.
 
----
+
 
 ## Collaborators
 - Alvin L. Almerol
@@ -59,7 +59,7 @@ We brainstormed for all of the possible errors and bugs that is created by mostl
 - Samantha Neil Q. Rico
 - Fabian Railey A. Victuelles
 
----
+
 
 ## Licenses
 MIT License
