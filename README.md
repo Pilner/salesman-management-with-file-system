@@ -26,7 +26,13 @@ gcc main.c -o main.exe
 Each of the salesman has these types of data assigned to each of them:
 - Salesman ID
 - Salesman Name
+	- First Name
+	- Last Name
 - Total Sales
+	- First Quarter Sales
+	- Second Quarter Sales
+	- Third Quarter Sales
+	- Fourth Quarter Sales
 - Commission
 
 
