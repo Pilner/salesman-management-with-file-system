@@ -5,7 +5,7 @@ The final project of COMP 20033 Computer Programming 2 written in the C Language
 
 
 ## How to use
-*Make sure you have a C compiler like [GCC](https://gcc.gnu.org/)*
+*Note: Make sure you have a C compiler like [GCC](https://gcc.gnu.org/). To check, run `gcc -v` in your terminal*
 
 1. First clone this git repository to your local device
 ```
